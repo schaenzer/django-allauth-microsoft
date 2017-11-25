@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name = "django-allauth-microsoft",
     version = "0.0.1",
-    author = "Vincent Schänzer",
+    author = "Vincent Schaenzer",
     author_email = "vincent@schaenzer.com",
     description = "Microsoft OAuth2 provider for django-allauth",
     url = "https://github.com/schaenzer/django-allauth-microsoft",
